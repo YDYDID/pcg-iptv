@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+.DS_Store
+.env
+.venv/
+venv/
+
+*.log
+*.m3u
+*.xml
+*.xml.gz
+
+mobile_getAllChannel2_cache.json
+exports/
